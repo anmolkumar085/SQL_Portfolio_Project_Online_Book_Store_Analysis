@@ -43,8 +43,6 @@ Hello! I’m **Anmol Kumar Singh**, a passionate data analyst & developer who en
 
 💡 **Tech Stack:** SQL, Python, Power BI, Excel  
 🎯 **Interests:** Data Science, Business Intelligence, and Automation  
-📫 **Contact Me:** [Your Email or LinkedIn]  
+📫 **Contact Me:** [anmolkumar085@gmail.com]  
 
 ---
-
-🚀 **Start your SQL journey today and showcase your skills with this project!**  
